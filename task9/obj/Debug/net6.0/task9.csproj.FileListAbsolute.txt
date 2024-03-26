@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\task9\task9\obj\Debug\net6.0\task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\task9\task9\obj\Debug\net6.0\task9.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\task9\task9\obj\Debug\net6.0\task9.AssemblyInfo.cs
+C:\Users\Hp\Desktop\task9\task9\obj\Debug\net6.0\task9.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\task9\task9\bin\Debug\net6.0\task9.exe
+C:\Users\Hp\Desktop\task9\task9\bin\Debug\net6.0\task9.deps.json
+C:\Users\Hp\Desktop\task9\task9\bin\Debug\net6.0\task9.runtimeconfig.json
+C:\Users\Hp\Desktop\task9\task9\bin\Debug\net6.0\task9.dll
+C:\Users\Hp\Desktop\task9\task9\bin\Debug\net6.0\task9.pdb
+C:\Users\Hp\Desktop\task9\task9\obj\Debug\net6.0\task9.dll
+C:\Users\Hp\Desktop\task9\task9\obj\Debug\net6.0\refint\task9.dll
+C:\Users\Hp\Desktop\task9\task9\obj\Debug\net6.0\task9.pdb
+C:\Users\Hp\Desktop\task9\task9\obj\Debug\net6.0\task9.genruntimeconfig.cache
+C:\Users\Hp\Desktop\task9\task9\obj\Debug\net6.0\ref\task9.dll
